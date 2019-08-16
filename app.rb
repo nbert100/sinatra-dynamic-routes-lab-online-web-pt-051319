@@ -8,6 +8,9 @@ get '/reversename/:name' do
   @reverse_name
 end
 
+get '/square/:number' do
+  
+end
 
 
 end
