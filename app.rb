@@ -13,5 +13,8 @@ get '/square/:number' do
   @num.to_s
 end
 
+get '/say/:number/:phrase' do
+  
+end
 
 end
